@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(149, 226, 60);
+    text-align: center;
+    text-decoration: dashed;
+    font-style: inherit;
+    font-variant: small-caps;
+}
+.heading{
+    width: 80%;
+    font-size: large;
+    font-style: unset;
+    font-variant: small-caps;
+}
